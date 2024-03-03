@@ -83,4 +83,3 @@ FROM Students
 INNER JOIN Grades
 ON Students.Marks BETWEEN Grades.Min_Mark and Grades.Max_Mark
 ORDER BY Grades.Grade DESC, Students.Name ASC, Students.Marks ASC;
-
