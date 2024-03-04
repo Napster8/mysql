@@ -3,6 +3,7 @@
 Hackerank Problems (Medium and Hard only)
 
 * selective grading
+* Top Competitors
 
 30 days of sql challenge
 
