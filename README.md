@@ -1,10 +1,13 @@
-# mysql
+# SQL
 
-Hackerank Problems (Medium and Hard only)
+## Project
+* [Creating 30 year calender using SQL](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/calender/calender_table_creation.sql)
 
-* selective grading
+## Hackerank Problems (Medium and Hard only)
+
+* Selective grading
 * Top Competitors
 
-30 days of sql challenge
+## 30 days of sql challenge
 
 Day 01 - [Removing repeating pairs problem.](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_01_challenge.sql)
