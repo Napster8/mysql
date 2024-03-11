@@ -15,5 +15,5 @@
 * **Day 04** - [Min-Max Fetching](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_04_challenge.sql)
 * **Day 05** - [Income Calculation Report](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_05_challenge.sql)
 * **Day 06** - [Student Performance](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_06_challenge.sql)
-* **Day 07** - [Day Matching](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_06_challenge.sql)
-* 
+* **Day 07** - [Day Matching](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_07_challenge.sql)
+* **Day 08** - [Forward Filling in SQL](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_08_challenge.sql)
