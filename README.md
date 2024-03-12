@@ -18,3 +18,4 @@
 * **Day 07** - [Day Matching](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_07_challenge.sql)
 * **Day 08** - [Forward Filling in SQL](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_08_challenge.sql)
 * **Day 09** - [Product Group Concatenation](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_09_challenge.sql)
+* **Day 10** - [Auto Repair Data](https://github.com/Napster8/mysql/blob/Napster8/raghutapas12/day_10_challenge.sql)
