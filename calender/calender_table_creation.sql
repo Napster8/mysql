@@ -81,7 +81,9 @@ WITH RECURSIVE cte AS (
         WEEK('2000-01-01') + 1 AS cal_week,
         DAYOFWEEK('2000-01-01') AS cal_week_day,
         DAYNAME('2000-01-01') AS cal_week_day_name
-    UNION ALL
+    
+    UNION
+    
     SELECT 
         cal_date + INTERVAL 1 DAY,
         YEAR(cal_date + INTERVAL 1 DAY),
